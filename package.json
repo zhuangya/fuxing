@@ -1,6 +1,6 @@
 {
   "name": "fuxing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Chinese compound surname",
   "main": "index.js",
   "dependencies": {},
