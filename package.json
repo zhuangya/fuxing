@@ -1,0 +1,20 @@
+{
+  "name": "fuxing",
+  "version": "0.0.1",
+  "description": "Chinese compound surname",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "chinese",
+    "compound",
+    "surename"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "MIT"
+}
